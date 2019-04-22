@@ -1,0 +1,6 @@
+{
+  "itemDisplayName": "Web App in LabPaaS-RG",
+  "description": "This template creates an Azure Web App without a data store in resource group: LabPaaS-RG",
+  "githubUsername": "Microsoft",
+  "summary": "Deploys an Azure Web App as an environment in a DevTest Lab."
+}
